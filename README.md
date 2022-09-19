@@ -10,10 +10,10 @@
 <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ac76cef9-7b9e-4e95-b653-37386dc4ff37/Group_806.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220914%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220914T133057Z&X-Amz-Expires=86400&X-Amz-Signature=8ecc5394c1085a615e8d81036bf2fd1bed5289e6ad31a9d9fd94255348651209&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Group%2520806.png%22&x-id=GetObject" >
 <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9e15d795-b55f-4544-b02d-890a12229dff/Group_808.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220914%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220914T133141Z&X-Amz-Expires=86400&X-Amz-Signature=9ff258158c7d0aefdd328995768951f97262bfc19c5af1b1c035d4b4ce2931db&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Group%2520808.png%22&x-id=GetObject" >
 
-### Github stats ###
+### Github Stats ###
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yougeun6021&show_icons=true&theme=radical)
 
-### Language Stats ###
+### Languages Stats ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yougeun6021&layout=compact)](https://github.com/yougeun6021/github-readme-stats)
 
 
